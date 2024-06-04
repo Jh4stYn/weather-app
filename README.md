@@ -1,4 +1,4 @@
-# Proyecto de Página Web del Clima
+# Proyecto 'Weather App'
 ## Descripción
 Este proyecto es una página web interactiva que proporciona información meteorológica en tiempo real basada en la ubicación del usuario. Utiliza permisos de geolocalización del navegador para obtener la ubicación del usuario y mostrar los datos climáticos correspondientes.
 
